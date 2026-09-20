@@ -47,7 +47,6 @@ $ cd projeto_lista_de_tarefa
 # 3. Abra o arquivo index.html no seu navegador favorito
 
 ```
-
 Se estiver usando o **VS Code**, clique com o botão direito no arquivo `index.html` e selecione **Open with Live Server**.
 
 ---
@@ -56,7 +55,8 @@ Se estiver usando o **VS Code**, clique com o botão direito no arquivo `index.h
 
 Caso queira trocar uma ideia ou acompanhar meus projetos:
 
-- **GitHub:** [@gutoskt](https://github.com/gutoskt)
+- **LinkedIn:** [Carlos Augusto Nunes Vieira](https://www.linkedin.com/in/carlos-augusto-nunes-vieira-602833304)
+- **Instagram:** [@devgu_to](https://www.instagram.com/devgu_to)
 - **Portfólio Atual:** [projeto-portfolio-segundo.web.app](https://projeto-portfolio-segundo.web.app)
 
 ---
